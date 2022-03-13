@@ -15,4 +15,5 @@ osascript chrome_tabs.osa
 ```
 
 ## todos
+
 Integreate scriptS with electron application.
