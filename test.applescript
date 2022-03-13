@@ -1,0 +1,1 @@
+tell application "System Events" to get the title of every window of every process
